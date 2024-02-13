@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/UnrealWriteUp/AddImpulse/Content/Main.umap",
+				"F:/UnrealWriteUp/AddImpulse/Content/test.uasset",
+				"F:/UnrealWriteUp/AddImpulse/Content/Reload.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/UnrealWriteUp/AddImpulse/Content/BP_CannonBall.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/Main.umap",
+				"E:/UnrealWriteUp/AddImpulse/Content/BP_Barrel.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/BP_CA.uasset",
+				"E:/UnrealWriteUp/AddImpulse/Content/Sphere_Blueprint.uasset"
+			]
+		}
+	]
+}
